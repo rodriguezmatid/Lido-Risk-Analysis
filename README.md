@@ -61,5 +61,5 @@ I plan to refine the models with real-time data integration and expand the scope
 ## 📬 **Contact**
 For queries or contributions, please open an issue in the repository, or contact me directly via GitHub.
 
-## 📌 ** Special Thanks **
+## 📌 **Special Thanks**
 Heartfelt gratitude goes to Bed Edgington for his book, which has been instrumental in shaping my understanding and approaches in this project. His expertly crafted guide provided not only inspiration but also invaluable insights that have significantly enhanced my research and development efforts.
